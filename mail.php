@@ -2,7 +2,7 @@
 include "class.smtp.php";
 include "class.phpmailer.php";
 
-$to = 'romelikeyou@gmail.com';  // put your email here
+$to = 'romelikeyou@gmail.com';  // put your email heref
 
 $email_template = 'simple.html';
 
