@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="8516d6d9-eacb-4929-aa14-5124a0ba8d33" name="me.romecody.com" url="http://128.199.77.201">
+        <fileTransfer host="128.199.77.201" port="22" rootFolder="/var/www/me.romecody.com/html" accessType="SFTP">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" />
+          </advancedOptions>
+          <option name="port" value="22" />
+        </fileTransfer>
+      </webServer>
+    </option>
+  </component>
+</project>
